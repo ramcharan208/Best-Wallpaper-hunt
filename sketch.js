@@ -23,9 +23,10 @@ function draw() {
 
   if(score === 3) {
     clear()
-    fill("black")
-    textSize(40);
-    text("https://telegra.ph/4k-Wallpaper-11-18",200,400);
+    background(bg2)
+    
+    
+
     
   }
 
